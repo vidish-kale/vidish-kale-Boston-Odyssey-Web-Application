@@ -32,4 +32,3 @@ Steps to be followed : ADMIN 1.First we need to create a admin credientials usin
 
 USER 1.The user will Register and login again after successfully getting registered. 2.The user will then login and will book the hotel ,which will select the place where he wants to go and the dates for which he will be going. 3.User will successfully book the hotel. 4.User will make the payment for the hotel which he booked . 5.Will receive the message as Payment successful.(Through stripe)
 
-Team members:- Vidish Kale (002194756), Amisha Gokhale (002743133), Parag Khankari (002707989), Pranav Kulkarni (002743955)
