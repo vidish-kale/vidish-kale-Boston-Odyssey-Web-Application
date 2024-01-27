@@ -1,0 +1,62 @@
+.Login{
+    padding-top: 100px;
+    background-color: #eee;
+    height: 700px;
+}
+
+.container{
+    width: 350px;
+    margin: 0 auto;
+   border-radius: 8px;
+    background-color: #fff;
+    padding: 100px !important;
+}
+
+.headerLogin{
+    font-weight: bold;
+}
+
+.headerLogin p{
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+.emailDiv{
+    margin-bottom: 20px;
+   
+}
+
+.emailDiv input{
+    padding: 10px 10px;
+    border-radius: 5px;
+    width: 99%;
+}
+
+.emailDiv p{
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.passwordDiv{
+    margin-bottom: 20px;
+}
+
+.passwordDiv input{
+    padding: 10px 10px;
+    border-radius: 5px;
+    width: 99%;
+}
+
+.passwordDiv p{
+    font-size: 16px;
+    font-weight: 500;
+}
+
+button{
+    background-color: #006CE6;
+    padding: 10px 10px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    width: 10%;
+}
